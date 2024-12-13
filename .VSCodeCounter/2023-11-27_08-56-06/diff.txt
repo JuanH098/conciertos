@@ -1,0 +1,44 @@
+Date : 2023-11-27 08:56:06
+Directory : c:\Users\Juan\Documents\2ºDAW\Servidor\ProyectoConciertos
+Total : 13 files,  403 codes, 41 comments, 104 blanks, all 548 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| CSS        |          4 |        173 |          2 |         54 |        229 |
+| XML        |          5 |         86 |          3 |          3 |         92 |
+| PHP        |          3 |         85 |         10 |         24 |        119 |
+| JavaScript |          1 |         59 |         26 |         23 |        108 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++---------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                        | files      | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                           |         13 |        403 |         41 |        104 |        548 |
+| Controlador                                                                                 |          1 |         17 |          0 |          7 |         24 |
+| Vista                                                                                       |          2 |         68 |         10 |         17 |         95 |
+| css                                                                                         |          5 |        232 |         28 |         77 |        337 |
+| img                                                                                         |          5 |         86 |          3 |          3 |         92 |
++---------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++---------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                                                    | language   | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| c:\Users\Juan\Documents\2ºDAW\Servidor\ProyectoConciertos\Controlador\cont_paginaCompra.php | PHP        |         17 |          0 |          7 |         24 |
+| c:\Users\Juan\Documents\2ºDAW\Servidor\ProyectoConciertos\Vista\listaEventos.php            | PHP        |         12 |          0 |          7 |         19 |
+| c:\Users\Juan\Documents\2ºDAW\Servidor\ProyectoConciertos\Vista\paginaCompra.php            | PHP        |         56 |         10 |         10 |         76 |
+| c:\Users\Juan\Documents\2ºDAW\Servidor\ProyectoConciertos\css\Cartstyles.css                | CSS        |          1 |          0 |          1 |          2 |
+| c:\Users\Juan\Documents\2ºDAW\Servidor\ProyectoConciertos\css\estilocompra.css              | CSS        |        147 |          2 |         36 |        185 |
+| c:\Users\Juan\Documents\2ºDAW\Servidor\ProyectoConciertos\css\img.css                       | CSS        |          5 |          0 |          1 |          6 |
+| c:\Users\Juan\Documents\2ºDAW\Servidor\ProyectoConciertos\css\script.js                     | JavaScript |         59 |         26 |         23 |        108 |
+| c:\Users\Juan\Documents\2ºDAW\Servidor\ProyectoConciertos\css\style.css                     | CSS        |         20 |          0 |         16 |         36 |
+| c:\Users\Juan\Documents\2ºDAW\Servidor\ProyectoConciertos\img\calendar.svg                  | XML        |         34 |          1 |          1 |         36 |
+| c:\Users\Juan\Documents\2ºDAW\Servidor\ProyectoConciertos\img\cart.svg                      | XML        |          4 |          0 |          0 |          4 |
+| c:\Users\Juan\Documents\2ºDAW\Servidor\ProyectoConciertos\img\clock.svg                     | XML        |          5 |          0 |          0 |          5 |
+| c:\Users\Juan\Documents\2ºDAW\Servidor\ProyectoConciertos\img\location.svg                  | XML        |         14 |          1 |          1 |         16 |
+| c:\Users\Juan\Documents\2ºDAW\Servidor\ProyectoConciertos\img\ticketcompra.svg              | XML        |         29 |          1 |          1 |         31 |
+| Total                                                                                       |            |        403 |         41 |        104 |        548 |
++---------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+

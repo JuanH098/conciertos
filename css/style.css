@@ -1,0 +1,218 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    font-family: Arial, sans-serif;
+
+}
+
+main {
+    padding-top: 10vh;
+
+}
+
+.title {
+    margin-left: 2%;
+}
+
+.container {
+    position: relative;
+}
+
+.header {
+    background-color: rgb(196, 255, 136);
+    height: 10vh;
+    display: flex;
+    align-items: center;
+    box-shadow: 0 0 10px chartreuse;
+    position: fixed;
+    width: 100%;
+}
+
+.carrito-container {
+    position: fixed;
+    top: 10px;
+    right: 10px;
+}
+
+.carrito {
+    height: 50px;
+    width: 50px;
+    cursor: pointer;
+}
+
+.opciones {
+    display: flex;
+    align-items: center;
+    margin-right: 50%;
+    padding-left: 2%;
+}
+
+.opciones div {
+    margin-right: 10px;
+    cursor: pointer;
+    color: black;
+}
+
+.opciones a {
+    text-decoration: none;
+    color: black;
+}
+
+.opciones a:hover {
+    text-decoration: underline;
+}
+
+.desplegable {
+    display: none;
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    padding: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+.btnsDesplegable button {
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 8px;
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    cursor: pointer;
+
+}
+
+.btnsDesplegable button:hover {
+    background-color: #45a049;
+}
+
+.imgsource {
+    width: 30%;
+}
+
+.divevento {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 200px;
+}
+
+.divText {
+    display: flex;
+    justify-items: center;
+    margin-left: 5%;
+    padding-top: 45px;
+}
+
+.middlediv {
+    width: 100%;
+    height: 80%;
+    display: flex;
+    align-items: center;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.divnombre {
+    padding: 0px;
+    margin-left: 3px;
+}
+
+.divName {
+    padding: 10px;
+    margin-bottom: 10%;
+    width: 20%;
+}
+
+.inputnum {
+    width: 40px;
+    margin-right: 3px;
+}
+
+footer {
+    background-color: rgb(143, 193, 143);
+    font-weight: bold;
+    box-shadow: 0 0 10px rgb(143, 193, 143);
+    height: 40%;
+}
+
+.copy {
+    display: flex;
+    justify-content: center;
+    font-size: small;
+    align-items: end;
+}
+
+.contact {
+    width: 100%;
+    padding-top: 4%;
+    padding-bottom: 4%;
+    text-decoration: none;
+    display: block;
+    
+}
+
+
+
+
+.small-entry {
+    width: 200px;
+    height: 175px;
+}
+
+.imgcerrar {
+    text-align: right;
+}
+
+.imgcerrar button {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    padding: 0px;
+}
+
+.imgcerrar button:hover {
+    background-color: rgb(206, 206, 206);
+    border: none;
+    cursor: pointer;
+}
+
+
+.divdesplegable {
+    border: 1px solid rgb(89, 89, 89);
+    padding: 2%;
+    margin-bottom: 2%;
+}
+.infofooter{
+    display: flex;
+    flex-direction: row;
+}
+.contactosconimg{
+    display: flex;
+    flex-direction: column;
+    padding-left: 4%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    justify-content: center;
+    width: 20%;
+}
+
+.comprar-btn{
+    color: white;
+}

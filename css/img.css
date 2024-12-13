@@ -1,0 +1,38 @@
+.ticketimg{
+    height: 30px;
+    width: 30px;
+    margin-left: 10px;
+}
+
+.fotosContact img{
+    width: 25px;
+    height: 25px;
+    padding-right: 2px;
+}
+.fotosContact{
+    display: flex;
+    flex-direction: column;
+    padding-left: 4%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    justify-content: center;
+    width: 20%;
+}
+.fotosContact a{
+    display: flex;
+    align-items: center;
+    padding-left: 2px;
+    text-decoration: none;
+    width: 50px;
+    color: black;
+   
+}
+
+.fotosContact a:hover{
+    text-decoration: underline;
+
+}
+.apps{
+    width: 40%;
+    padding: 2%;
+}

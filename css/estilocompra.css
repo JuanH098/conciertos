@@ -1,0 +1,185 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.entrada-info h2 {
+    color: #333;
+}
+
+.entrada-info p {
+    color: #555;
+}
+
+.entrada-info img {
+    max-width: 100%;
+    height: auto;
+
+}
+
+.forma-pago {
+    margin-top: 20px;
+}
+
+.forma-pago label {
+    display: block;
+    margin-bottom: 8px;
+    color: #333;
+}
+
+.forma-pago input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 16px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 14px;
+}
+
+.comprar-btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 4px;
+    transition: background-color 0.3s;
+}
+
+.comprar-btn:hover {
+    background-color: #45a049;
+}
+
+/* Estilos generales para la entrada del carrito */
+.divdesplegable {
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.imgcerrar {
+    margin-right: 10px;
+}
+
+.middlediv {
+    display: flex;
+    align-items: center;
+}
+
+.imgEvento {
+    width: 80px;
+    height: 80px;
+    object-fit: cover;
+    margin-right: 10px;
+}
+
+.divnombre {
+    flex-grow: 1;
+
+}
+
+/* Estilos específicos para cada campo de la entrada del carrito */
+.nombreCompra {
+    font-size: 16px;
+    margin: 0;
+}
+
+.artistaCompra {
+    margin: 5px 0;
+}
+
+.fechaCompra {
+    margin: 5px 0;
+}
+
+.cantidadCompra {
+    margin: 5px 0;
+}
+
+.precioCompra {
+    font-weight: bold;
+    margin: 5px 0;
+}
+
+.imgCompra {
+    width: 100px;
+    height: 100%;
+    margin: 0px !important;
+}
+
+.divCompra {
+    width: 40%;
+}
+
+.divSupremo {
+    display: flex;
+    align-items: center;
+    border: 1px solid black;
+    margin-bottom: 2%;
+    border-radius: 16px;
+    transition-duration: 0.5s;
+}
+
+.divSupremo:hover{
+    background-color: #e4e4e4;
+}
+
+.divimg {
+    margin-right: 2%;
+    margin-left: 2%;
+
+}
+
+.entrada-info {
+    max-height: 700px;
+    max-width: 600px;
+    margin: 10px auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+
+}
+
+.divMaestro {
+    max-height: 500px;
+    max-width: 600px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+.imgcerrarCompra button {
+    padding: 0;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+}
+.imgcerrarCompra img{
+    margin-top: 0 !important;
+}
+
+.location{
+    display: flex;
+    align-items: center;
+ 
+    margin-top: 0 !important;
+
+}
+.location img{
+    height: 30px;
+    width: 30px;
+    
+}
+.localizacion{
+    margin: 0 !important;
+}
+.pingLocation{
+    margin-right: 2%;
+}

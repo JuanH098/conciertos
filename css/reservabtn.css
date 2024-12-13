@@ -1,0 +1,36 @@
+.botonrsv {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    padding: 5px;
+    width: 150px;
+    height: 35px;
+    background-color: #4CAF50;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-color: #4CAF50;
+    border-radius: 20vh;
+}
+
+.botondiv {
+    display: flex;
+    align-items: center;
+}
+
+.botonrsv:hover {
+    background-color: rgb(196, 255, 136);
+    border-color: rgb(196, 255, 136);
+}
+.btndiv{
+    width: 20%;
+    align-content: center;
+    color:  #4CAF50;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.btndiv p{
+    padding-left: 32%;
+    padding-bottom: 2%;
+}
